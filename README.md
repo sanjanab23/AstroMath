@@ -5,9 +5,6 @@
 ## 🚀 Demo
 Explore the live version of ASTRO-Math here: https://astro-math.netlify.app/
 
-## 📂 GitHub Repository
-Find the source code on GitHub: [ASTRO-Math Repository](https://github.com/ssingh-shubham/Astro_Math)
-
 ## 📝 Features
 - **Engaging Gameplay**: Solve math problems to destroy asteroids and advance through levels.
 - **User-Friendly Interface**: Simple and interactive design for an enjoyable experience.
