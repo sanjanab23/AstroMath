@@ -18,11 +18,7 @@ Explore the live version of ASTRO-Math here: https://astro-math.netlify.app/
 
 ## 📜 Installation
 To run this project locally:
-
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/ssingh-shubham/Astro_Math.git
-    ```
 2. Open the `index.html` file in your browser to start the game.
 
 ## 📈 Gameplay Instructions
